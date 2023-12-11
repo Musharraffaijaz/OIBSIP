@@ -13,9 +13,3 @@ node --version
 ```
 firebase init
 ```
-
-# To create a React App
-
-```
-npx create react-app folder_name
-```
